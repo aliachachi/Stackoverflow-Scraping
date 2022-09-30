@@ -8,3 +8,7 @@
 
 # Data scraped 
 - Title , Link , Date , Vote
+
+# Libraries 
+- BeautifulSoup
+- Requests
